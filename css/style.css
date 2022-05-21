@@ -1,0 +1,28 @@
+html, body {
+  margin-top: 0px;
+  height: 100%;
+  width: 100%;
+
+}
+
+header{
+  margin-top: 0px;
+  background: #EAE0CC;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0px;
+  padding: 50px;
+}
+
+main{
+  background: #C9ADA1;
+  width:55%;
+}
+
+footer{
+  background: #A0A083;
+  padding: 30px;
+  width:55%;
+}
